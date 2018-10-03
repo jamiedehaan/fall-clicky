@@ -7,3 +7,13 @@ body, html, #root {
   margin: 0;
   padding: 0;
 }
+
+.container-fluid {
+  background: url("/images/background2.jpg");
+  background-size: cover;
+}
+
+.jumbotron {
+  background: url("/images/background.jpeg");
+  background-size: cover;
+}
