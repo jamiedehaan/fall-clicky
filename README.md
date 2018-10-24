@@ -2,6 +2,8 @@ This is a memory game created with React. It has a fall theme! The application's
 
 The application renders 12 images to the page which listen for click events. The application keeps track of the user's score and top score. The user's score is incremented when clicking an image for the first time. The user's score is reset to 0 if they click the same image more than once. Every time an image is clicked, the images rendered to the page shuffle themselves in a random order. The game restarts once the user's score is reset after an incorrect guess. The highest possible score/top score is 12 points.
 
+https://jamiedehaan.github.io/fall-clicky/
+
 ********************************************************************
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
